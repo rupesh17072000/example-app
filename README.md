@@ -12,7 +12,7 @@ CRON Jobs: Scheduled tasks for automated reminders and maintenance.
 
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/doctor-booking-system.git
+Clone the repository:https://github.com/rupesh17072000/example-app
 Navigate to the project directory: cd doctor-booking-system
 Install dependencies: composer install
 Set up environment variables: Create a .env file by copying .env.example and configure database credentials.
